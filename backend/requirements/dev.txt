@@ -456,7 +456,7 @@ tokenizers==0.22.2
     # via
     #   cohere
     #   litellm
-tornado==6.5.5
+tornado==6.6.1
     # via
     #   ipykernel
     #   jupyter-client
